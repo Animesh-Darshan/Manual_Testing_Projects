@@ -1,13 +1,13 @@
 # Manual Testing Project
 
 ## Project Title
-**Manual Testing of Web Application**
+**OPEN_CART** & **CURA_HEALTHCARE_SERVICES** 
 
 ---
 
 ## Project Description
 
-This repository contains the complete documentation for the manual testing of a web application. The goal of this project is to ensure the quality and functionality of the application through rigorous manual testing methods. The project includes various testing processes, such as functional, UI/UX, compatibility, and security testing. Manual testing is a critical part of ensuring that the web application is user-friendly, functional, and secure.
+This repository contains the complete documentation for the manual testing of a web application - **OPEN_CART** & **CURA_HEALTHCARE_SERVICES** . The goal of this project is to ensure the quality and functionality of the application through rigorous manual testing methods. The project includes various testing processes, such as functional, UI/UX, compatibility, and security testing. Manual testing is a critical part of ensuring that the web application is user-friendly, functional, and secure.
 
 In this project, we perform tests without using any automation tools, focusing on detecting errors and improving the application's performance and user experience.
 
@@ -19,19 +19,18 @@ The following testing documents are included in this repository:
 
 1. **Test Plan**  
    A high-level document that outlines the scope, objectives, strategy, and resources for the manual testing process.  
-   - [Test Plan](link-to-test-plan)
 
 2. **Test Cases**  
    A detailed list of test cases that cover the application's features, functional requirements, and various scenarios. Each test case includes test steps, expected results, and execution status.  
-   - [Test Cases](link-to-test-cases)
 
 3. **Bug Reports**  
    A collection of bugs and issues identified during the manual testing process, including severity, steps to reproduce, and the current status of each issue.  
-   - [Bug Reports](link-to-bug-reports)
 
-4. **Test Summary Report**  
-   A summary document that provides an overview of the testing process, including the total number of test cases executed, pass/fail rates, and key issues discovered.  
-   - [Test Summary Report](link-to-test-summary)
+4. **Test Case Report**  
+   A Test case document provides an overview of the testing process, including the total number of test cases executed, pass/fail rates, and key issues discovered.
+
+5. **Requirement Traceability Matrix (RTM)**
+   A requirement Traceability Matrix is a document which is created to trace Test scenario and the test case associated with that scenario so that we can check the status of that test case and test scenario.
 
 ---
 
